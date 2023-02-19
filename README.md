@@ -16,6 +16,6 @@ This allows for the recording of tagged products moving in and out of the wareho
 ![food1](https://user-images.githubusercontent.com/84846504/219873109-abd09953-6292-4628-a00f-5e24e8782e1d.jpg)
 
 
-Please cite our paper
+<b>Please cite our paper</b>
 
 Alfian, G.; Syafrudin, M.; Farooq, U.; Ma’arif, M.R.; Syaekhoni, M.A.; Fitriyani, N.L.; Lee, J.; Rhee, J. Improving Efficiency of RFID-Based Traceability System for Perishable Food by Utilizing IoT Sensors and Machine Learning Model. Food Control 2020, 110, 107016, doi:10.1016/j.foodcont.2019.107016.
